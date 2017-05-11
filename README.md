@@ -6,11 +6,11 @@ Script for automatic changing of saved VPN connections under Linux
 
 1. Download this script
 
-  wget https://github.com/ludenticus/vpn-change/blob/master/VPN_change.sh
+  `wget https://github.com/ludenticus/vpn-change/blob/master/VPN_change.sh`
   
 2. Make it executable
 
-  chmod +x VPN_change.sh
+  `chmod +x VPN_change.sh`
 
 3. Create a shortcut
 
