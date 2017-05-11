@@ -1,6 +1,6 @@
 # vpn-change
 
-Script for automatic changing of saved VPN connections under Linux
+Script for automatic changing of your saved VPN connections under Linux. It will connect to the earliest used VPN
 
 ## Instructions
 
