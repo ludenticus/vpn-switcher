@@ -12,7 +12,7 @@ test=$(nmcli con show --active | grep -c vpn)
 
 # Possible results:
 # 0 - No VPN connected. Start one
-# 1 - VPN connected. Disable running connection and start a new one, beginning with the least used
+# 1 - VPN connected. Disable running connection and start a new one, beginning with the earliest used
 
 case $test in
 
