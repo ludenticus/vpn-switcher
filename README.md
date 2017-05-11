@@ -1,6 +1,15 @@
 # vpn-change
 
-Script for automatic changing of your saved VPN connections under Linux. It will connect to the earliest used VPN
+## Description
+
+Script for automatic changing of your saved VPN connections under Linux. In order to alternate VPNs, it will connect to the earliest used VPN. 
+
+
+## Requirements
+
+* nmcli
+* Saved and working VPN connections
+
 
 ## Instructions
 
