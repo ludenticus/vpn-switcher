@@ -25,5 +25,5 @@ Script for automatic changing of your saved VPN connections under Linux. In orde
 
   *In Gnome*
   
-  Go to Settings > Keyboard > Set custom shortcut
+  Settings > Keyboard > Set custom shortcut
 
