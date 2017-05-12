@@ -31,3 +31,4 @@ chmod +x VPN_switcher.sh
   
   Settings > Keyboard > Set custom shortcut
 
+![Gnome · Create shortcut](https://github.com/ludenticus/vpn-switcher/blob/master/Gnome_Shortcut.jpg)
