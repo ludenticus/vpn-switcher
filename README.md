@@ -15,7 +15,7 @@ Script for switching VPN connections under Linux. In order to alternate VPNs, it
 
 1. Download this script
 
-  `wget https://github.com/ludenticus/vpn-change/blob/master/VPN_change.sh`
+  `wget https://github.com/ludenticus/vpn-switcher/blob/master/VPN_switcher.sh`
   
 2. Make it executable
 
