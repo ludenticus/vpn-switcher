@@ -19,7 +19,7 @@ Script for switching VPN connections under Linux. In order to alternate VPNs, it
   
 2. Make it executable
 
-  `chmod +x VPN_change.sh`
+  `chmod +x VPN_switcher.sh`
 
 3. Create a shortcut
 
