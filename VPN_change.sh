@@ -1,11 +1,11 @@
 
 #!/bin/bash
 
-# Script for automatic change of saved VPN connections under Linux
+# Script for switching VPN connections under Linux
 # Created by Eduardo Villegas
 # GNU General Public License v3.0
 # The latest version of this script is available at:
-# https://github.com/ludenticus/vpn-change
+# https://github.com/ludenticus/vpn-switcher
 
 
 test=$(nmcli con show --active | grep -c vpn)
