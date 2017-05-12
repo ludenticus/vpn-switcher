@@ -11,7 +11,7 @@ Script for switching VPN connections under Linux. In order to alternate VPNs, it
 * Saved and working VPN connections
 
 
-## Instructions
+## Installation
 
 1. Download this script
 
