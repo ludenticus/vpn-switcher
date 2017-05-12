@@ -1,8 +1,8 @@
-# vpn-change
+# vpn-switcher
 
 ## Description
 
-Script for automatic changing of your saved VPN connections under Linux. In order to alternate VPNs, it will connect to the earliest used VPN. 
+Script for switching VPN connections under Linux. In order to alternate VPNs, it will connect to the earliest used VPN. 
 
 
 ## Requirements
