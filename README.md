@@ -15,6 +15,8 @@ This small script will be useful in case you:
 
 3. Want to  stay off the hassle of clicking each time Turn off VPN > Turn on next VPN
 
+4. Want to create a custom shortcut to do this
+
 
 
 ## Requirements
