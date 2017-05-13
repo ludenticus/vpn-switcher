@@ -5,10 +5,23 @@
 Script for switching VPN connections under Linux. In order to alternate VPNs, it will connect to the earliest used VPN. 
 
 
+## Who can benefit from this script?
+
+This small script will be useful in case you:
+ 
+1. Have already configured a number of VPN connections
+
+2. Need to switch between them, avoiding repetitions
+
+3. Want to  stay off the hassle of clicking each time Turn off VPN > Turn on next VPN
+
+
+
 ## Requirements
 
-* nmcli
-* Saved and working VPN connections
+1. nmcli
+
+2. Saved and working VPN connections
 
 
 ## Installation
