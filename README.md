@@ -2,7 +2,8 @@
 
 ## Description
 
-Script for switching VPN connections under Linux. In order to alternate VPNs, it will connect to the earliest used VPN. 
+
+**vpn-switcher** is a bash script for switching VPN connections under Linux. In order to alternate VPNs, it will connect to the earliest used VPN.
 
 
 ## Who can benefit from this script?
