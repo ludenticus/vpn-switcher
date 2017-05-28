@@ -31,15 +31,7 @@ This small script will be useful in case you:
 
 1. Download this script
 
-````
-wget https://github.com/ludenticus/vpn-switcher/blob/master/VPN_switcher.sh
-````
-
 2. Make it executable
-
-````
-chmod +x VPN_switcher.sh
-````
 
 3. Create a shortcut
 
