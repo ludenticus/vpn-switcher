@@ -20,7 +20,7 @@ case $test in
 
       nmcli con up `nmcli --mode tabular --fields name,type,timestamp con | grep -E "\s+vpn\s+" | sort -k3 | head -n1 | awk '{ print $1}'`      
 
-      notify-send "No previous VPN was detected" "Connecting to `nmcli con show --active | grep vpn | awk '{print $1}'`"
+      notify-send "No previous VPN was detected" "Connecting to `nmcli con show --active | grep vpn | awk '{print $1}'`" --icon=network-vpn-symbolic
 
    ;;
 
@@ -30,7 +30,7 @@ case $test in
 
       nmcli con up `nmcli --mode tabular --fields name,type,timestamp con | grep -E "\s+vpn\s+" | sort -k3 | head -n1 | awk '{ print $1}'`
 
-      notify-send "Starting a new VPN" "Connecting to `nmcli con show --active | grep vpn | awk '{print $1}'`"
+      notify-send "Starting a new VPN" "Connecting to `nmcli con show --active | grep vpn | awk '{print $1}'`" --icon=network-vpn-symbolic
 
    ;;
 
