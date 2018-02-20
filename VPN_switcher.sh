@@ -1,7 +1,6 @@
-
 #!/bin/bash
 
-# Script for switching VPN connections under Linux
+# Script for switching VPN connections
 # Created by Eduardo Villegas
 # GNU General Public License v3.0
 # The latest version of this script is available at:
